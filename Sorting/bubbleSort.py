@@ -1,4 +1,4 @@
-# Time O(N) | # Space O(1)
+# Time O(N^2) | # Space O(1)
 def bubbleSort(array):
     isSorted = False
     counter = 0
