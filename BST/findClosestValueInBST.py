@@ -1,5 +1,5 @@
 def findClosestValueInBST(tree, target):
-    def findClosestValueInBSTHelper(tree, target, float("inff"))
+    return findClosestValueInBSTHelper(tree, target, float("inff"))
 
 def findClosestValueInBSTHelper(tree, target, closest):
     currentNode = tree
