@@ -8,4 +8,4 @@ def isPalindrome(string):
             right -= 1
         else:
             return False
-    return True
+    return True 
